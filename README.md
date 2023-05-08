@@ -1,1 +1,1 @@
-# githubactions-lambda
+# githubactions-lambda-NodeJS
